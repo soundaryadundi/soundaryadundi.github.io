@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soundarya Dundi on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content in Soundarya Dundi on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>http://example.org/elements/</link>
+      <link>/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/elements/</guid>
+      <guid>/elements/</guid>
       <description>Soundarya Dundi I am a climate change and development researcher. I am currenty studying Master in Applied International Development from the University of Reading, UK. Prior to this I led a community movement to save the Arpa River in Bilaspur, victim of illicit dumping by local industries and hospitals. I have also worked with students from displaced and vulnerable communities through my work with government schools and children&amp;rsquo;s ministry.
 I have got a gold medal in Rural Technology and French from Central University of Chhattisgarh.</description>
     </item>
